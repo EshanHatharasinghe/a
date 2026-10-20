@@ -9,7 +9,7 @@ An industrial-grade Windows Server 2022 infrastructure lab designed and implemen
 
 Click on any phase below to view detailed implementation steps, PowerShell scripts, and screenshots:
 
-- [x] [🚀 Phase 1: Lab & Network Architecture Setup](phase-01--Network/p1.md)
+- [x] [🚀 Phase 1: Lab & Network Architecture Setup](phase-01--Network/P01.md)
 - [ ] [⚙️ Phase 2: Core Infrastructure (AD DS & DNS)](docs/phase-02-adds-dns.md)
 
   
