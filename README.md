@@ -11,3 +11,6 @@ Click on any phase below to view detailed implementation steps, PowerShell scrip
 
 - [x] [🚀 Phase 1: Lab & Network Architecture Setup](docs/phase-01-lab-setup.md)
 - [ ] [⚙️ Phase 2: Core Infrastructure (AD DS & DNS)](docs/phase-02-adds-dns.md)
+- {x} hh
+  [ ] ggg
+  
